@@ -38,8 +38,9 @@ gcc cafeteria_management.c -o cafeteria_management
 
 ## 👥 Group Details
 *Please update this section before submitting the link!*
-*   **Group Member 1:** [Name] - [Register Number]
-*   **Group Member 2:** [Name] - [Register Number]
-*   **Group Member 3:** [Name] - [Register Number]
-*   **Group Member 4:** [Name] - [Register Number]
-*   **Group Member 5:** [Name] - [Register Number]
+*   **Group Member 1:** AMOGH A NAYAK - 20251EVL0035
+*   **Group Member 2:** THANYA R - 20251EVL0036
+*   **Group Member 3:** T NOOR MOHAMMED - 20251EVL0037
+*   **Group Member 4:** DUDEKULA SHAHID REHAMAN - 20251EVL0038
+*   **Group Member 5:** CHIRANJEEVI CHINMAYI K - 20261LVL3001
+*   **Group Member 5:** POOSARLA VENKATA KANAKA ABISHEK - 20261LVL3002
