@@ -43,4 +43,4 @@ gcc cafeteria_management.c -o cafeteria_management
 *   **Group Member 3:** T NOOR MOHAMMED - 20251EVL0037
 *   **Group Member 4:** DUDEKULA SHAHID REHAMAN - 20251EVL0038
 *   **Group Member 5:** CHIRANJEEVI CHINMAYI K - 20261LVL3001
-*   **Group Member 5:** POOSARLA VENKATA KANAKA ABISHEK - 20261LVL3002
+*   **Group Member 6:** POOSARLA VENKATA KANAKA ABISHEK - 20261LVL3002
